@@ -1,0 +1,72 @@
+.katana{
+    display: flex;
+}
+.bootcamp{
+    margin-left: 120px;
+}
+.asmaster{
+    margin-left: 300px;
+}
+.video{
+    margin-left: 30px;
+}
+.courses{
+    margin-left: 30px;
+}
+.products{
+    margin-left: 30px;
+}
+.iconca{
+    margin-left: 30px;
+}
+.stu{
+    margin-top: 60px;
+    margin-left: 150px;
+}
+.stu p{
+    width: 290px;
+}
+.stu h2{
+    border: 1px solid red;
+    width: 200px;
+    color: white;
+    background-color: red;
+    border-radius: 9%;
+    padding-left: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.elprimo{
+    display: flex;
+}
+@media (min-width:500px) {
+    .elprimo{
+        width: calc(30%-10%);
+    }
+}
+.leon{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.voron{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.spike{
+    display: flex;
+}
+.frenk{
+    width: 270px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.frenk h2{
+    border: 1px solid red;
+    width: 200px;
+    color: white;
+    background-color: red;
+    border-radius: 9%;
+    padding-left: 60px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
